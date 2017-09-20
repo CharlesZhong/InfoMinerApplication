@@ -1,0 +1,2 @@
+# InfoMinerApplication
+Fabric Service
